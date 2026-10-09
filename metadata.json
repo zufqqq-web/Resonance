@@ -1,0 +1,7 @@
+{
+  "name": "Resonance — Desktop Music Player",
+  "description": "Translucent desktop music player featuring real-time audio spectrum visualization, local file playback, and TokyoNight solid color aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
